@@ -26,7 +26,7 @@ Currently this is an initial iteration designed by <a href="http://labofspeculat
    
 (3) Clone into the <b>InstagramPi<b> folder the <i>handsUps script<i> 
    
-(4) <b>Optional:<b> you might want to play with the accelorometer values to make it easier or harder to trigger the camera.
+(4) <b>Optional:</b> you might want to play with the accelorometer values to make it easier or harder to trigger the camera.
 
 
 any help on building this out is much appreciated. 
